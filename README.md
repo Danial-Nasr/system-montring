@@ -4,7 +4,7 @@
 # System Resource Monitor
 
 This Bash script monitors system resources, including disk usage, CPU usage, memory usage, and the top 5 memory-consuming processes. It generates logs, displays resource statistics in the terminal, and sends email alerts when specified thresholds are exceeded.
-
+![System Monitor Output](https://raw.githubusercontent.com/Danial-Nasr/system-montring/main/1.scr.PNG)
 ---
 
 ## Features
