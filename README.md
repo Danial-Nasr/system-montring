@@ -111,15 +111,3 @@ danial 5.9  /usr/bin/gnome-shell  357.875 MB
 danial 0.0  /usr/libexec/evolution-data-server/evolution-alarm-notify 61.6797 MB
 ```
 
----
-
-## Known Issues
-
-- If the `mail` command is not installed, the script will display the error: `mail: command not found`.
-- Usage thresholds should be integers. Invalid values may cause unexpected behavior.
-
----
-
-## License
-
-This project is open-source and available for use under the MIT License. Feel free to modify and redistribute.
